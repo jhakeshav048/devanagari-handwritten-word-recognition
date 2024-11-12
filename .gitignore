@@ -1,0 +1,5 @@
+/HindiSeg/HindiSeg
+*.keras
+*.pkl
+*.h5
+*.npy
